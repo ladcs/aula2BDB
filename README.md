@@ -2,6 +2,8 @@
 
 deve ser criado um arquivo .sql com o nome exercicioX para fazer o mesmo, assim para a entrega deve haver 15 programas com o nome exercicio1.sql, exercicio2.sql ... exercicio15.sql.
 
+https://drive.google.com/file/d/1JrGF17k_8A8RTm8Jbeb42QgHgci6cmQf/view?usp=drivesdk
+
 1 - Escreva uma query para exibir a string “This is SQL Exercise, Practice and Solution”.
 
 2 - Escreva uma query para exibir três números em três colunas.
