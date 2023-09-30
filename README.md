@@ -12,9 +12,9 @@ https://drive.google.com/file/d/1JrGF17k_8A8RTm8Jbeb42QgHgci6cmQf/view?usp=drive
 
 4 - Escreva uma query para exibir o resultado de uma expressão aritmética qualquer.
 
-5 - Escreva uma query para exibir todas as informações de todos os cientistas.
+5 - Escreva uma query para exibir todas as informações de todos os Customers.
 
-6 - Escreva uma query para exibir o nome como “Nome do Projeto” e as horas como “Tempo de Trabalho” de cada projeto.
+6 - Escreva uma query para exibir o nome como “nome completo” e as Birtdate “data de nascimento” de cada Employeer.
 
 7 - Escreva uma query para exibir o nome dos cientistas em ordem alfabética.
 
