@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1JrGF17k_8A8RTm8Jbeb42QgHgci6cmQf/view?usp=drive
 
 6 - Escreva uma query para exibir o nome como “nome completo” e as Birtdate “data de nascimento” de cada Employeer.
 
-7 - Escreva uma query para exibir o contactBame dos Customers em ordem alfabética.
+7 - Escreva uma query para exibir o contactName dos Customers em ordem alfabética.
 
 8 - Escreva uma query para exibir o nome dos ContactoName (Suppliers) em ordem alfabética descendente.
 
