@@ -2,7 +2,7 @@
 
 deve ser criado um arquivo .sql com o nome exercicioX para fazer o mesmo, assim para a entrega deve haver 15 programas com o nome exercicio1.sql, exercicio2.sql ... exercicio15.sql.
 
-https://drive.google.com/file/d/1JrGF17k_8A8RTm8Jbeb42QgHgci6cmQf/view?usp=drivesdk
+[https://drive.google.com/file/d/1JrGF17k_8A8RTm8Jbeb42QgHgci6cmQf/view?usp=drivesdk](https://drive.google.com/file/d/1zOG50S3MoaP-R60K8EOkYbXp9aYdv424/view?usp=sharing)
 
 1 - Escreva uma query para exibir a string “This is SQL Exercise, Practice and Solution”.
 
@@ -20,9 +20,9 @@ https://drive.google.com/file/d/1JrGF17k_8A8RTm8Jbeb42QgHgci6cmQf/view?usp=drive
 
 8 - Escreva uma query para exibir o nome dos ContactName (Suppliers) em ordem alfabética descendente.
 
-9 - Escreva uma query que exiba a string “O projeto Name precisou de Hours horas para ser concluído.” para cada projeto.
+9 - Escreva uma query que exiba a string “O Pedido de ID OrderID foi feito no dia OrderDate.” para cada Order.
 
-10 - Escreva uma query para exibir o nome e as horas dos três projetos com a maior quantidade de horas.
+10 - Escreva uma query para exibir a OrderDetailsId e os OrderId dos três pedidos com a maior Quantity.
 
 11 - Escreva uma query para exibir o código de todos os projetos da tabela AssignedTo sem que haja repetições.
 
