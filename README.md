@@ -23,13 +23,3 @@ deve ser criado um arquivo .sql com o nome exercicioX para fazer o mesmo, assim 
 9 - Escreva uma query que exiba a string “O Pedido de ID OrderID foi feito no dia OrderDate.” para cada Order.
 
 10 - Escreva uma query para exibir a OrderDetailsId e os OrderId dos três pedidos com a maior Quantity.
-
-11 - Escreva uma query para exibir o código de todos os projetos da tabela AssignedTo sem que haja repetições.
-
-12 - Escreva uma query para exibir o nome do projeto com maior quantidade de horas.
-
-13- Escreva uma query para exibir o nome do segundo projeto com menor quantidade de horas.
-
-14 - Escreva uma query para exibir todas as informações dos cinco projetos com a menor quantidade de horas.
-
-15 - Escreva uma query que exiba a string “Existem Number cientistas na tabela Scientists.”, em que Number se refira a quantidade de cientistas.
