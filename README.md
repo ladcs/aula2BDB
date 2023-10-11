@@ -22,4 +22,4 @@ deve ser criado um arquivo .sql com o nome exercicioX para fazer o mesmo, assim 
 
 9 - Escreva uma query que exiba a string “O Pedido de ID OrderID foi feito no dia OrderDate.” para cada Order.
 
-10 - Escreva uma query para exibir a OrderDetailsId e os OrderId dos três pedidos com a maior Quantity.
+10 - Escreva uma query para exibir a OrderDetailId e os OrderId dos três pedidos com a maior Quantity.
